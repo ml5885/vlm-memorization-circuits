@@ -1,0 +1,2906 @@
+prompt,gt_answer,pred_answer
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Roberto Clemente.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider David Carney.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Luis Scola.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",basket,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Elton Brand.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",basket,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Terrell Owens.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Matteo Ferrari.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mariano Rivera.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Dennis Rodman.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",basket,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Moe Berg.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Willie Mays.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Landon Donovan.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tim Tebow.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Zack Steffen.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Andrea Pirlo.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Jesse Hibbs.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Jim Bunning.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ryan Smyth.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Larry Doby.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ed O'Neill.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Lou Gehrig.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Leon Allen White.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Drew Brees.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Warren Spahn.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ken Dryden.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Eric Lindros.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Terry Bradshaw.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Nelson Valdez.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tim Cahill.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ichiro Suzuki.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Marc Gasol.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",basket,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Arne Friedrich.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Walter Zenga.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kendall Waston.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Freddy Adu.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider George Halas.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Dick Butkus.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Red Grange.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Stan Musial.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tommie Smith.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,s
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Lionel Conacher.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Derek Jeter.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Honus Wagner.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mickey Mantle.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Allen Iverson.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",basket,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tom Seaver.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Brett Favre.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Michael Strahan.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Sergei Makarov.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Danny Ainge.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Don Shula.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Emmitt Smith.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Brian Bosworth.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Johnny Unitas.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Gary Payton.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",basket,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mark Messier.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kevin Garnett.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",basket,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Stan Mikita.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ernie Banks.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Roger Maris.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Carl Weathers.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kenny Lofton.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Nick Swisher.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Shane Doan.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider John Elway.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Terry Crews.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Jacques Plante.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Nigel de Jong.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mauricio Wright.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,ten
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Frank Lampard.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Peter Forsberg.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Boris Diaw.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",basket,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Julius Erving.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",basket,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Guy Lafleur.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Walter Payton.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Carmelo Anthony.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",basket,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Gordie Howe.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Joe Namath.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Patrick Ewing.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",basket,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Jim Thorpe.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Dave Winfield.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Roman Reigns.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Steven Gerrard.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Robbie Keane.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Deion Sanders.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,football
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Hank Greenberg.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,base
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mario Lemieux.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Thierry Henry.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",soc,soc
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Brock Lesnar.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",football,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Chuck Connors.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",base,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Charles Barkley.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",basket,basket
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Pavel Bure.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",h,h
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Usain Bolt.
+What sport does this athlete play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",s,s
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Namib Desert.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Nam,Nam
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Lake Baikal.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Russia,Russia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Karnak Temple.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Egypt,Egypt
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Abu Simbel.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Egypt,Egypt
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Siwa Oasis.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Egypt,Egypt
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ring of Kerry.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",I,I
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Cotswolds.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",UK,UK
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Douro Valley.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Port,Port
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kinderdijk.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",N,N
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kuala Langat.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Mal,Mal
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Piper Verlag.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Attingal.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Darmstadt.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Adliswil.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Sw,Sw
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Borovsky District.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Russia,Russia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kosi Zone.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",N,N
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mandara Mountains.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",N,Ind
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Imsland.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Nor,I
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Hurley River.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Canada,Australia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Jan Amora.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Eth,C
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Canjuers.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",France,France
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Rankuh District.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Iran,U
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Capolago.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Sw,Sw
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Toronto Police Service.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Canada,Canada
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Pilis Mountains.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Hung,Hung
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Lower Assam.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bad Vilbel.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Dawa River.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Som,Ken
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kayunga District.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",U,U
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bobolice.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Pol,Pol
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Sakarya Province.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Turkey,Turkey
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Zwiefalten.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mudgee.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Australia,Australia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tursi.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Italy,Italy
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kalvola.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Fin,Fin
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Sarnaki.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Pol,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Hong San See.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Singapore,Singapore
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Amsterdam dance event.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",N,N
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Harnaut.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Westerburg.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Menangle Park.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Australia,Australia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Marugame.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Japan,Japan
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Lleida.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Spain,Spain
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ankenes.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Nor,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Cocconato.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Italy,Italy
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Sidhi district.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Sena Medal.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Elgin West.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Canada,Canada
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ticho House.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Israel,Israel
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider House of Representatives.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Lib,USA
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Jafara.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Lib,Iraq
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ljig.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Ser,L
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ferrobaires.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Argentina,Argentina
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bugis Junction.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Singapore,Singapore
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Were Ilu.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Eth,N
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Indus River.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,Pakistan
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Guldborg.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Den,Den
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Papantla.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Mexico,Mexico
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Helsinki City Hall.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Fin,Fin
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Uromi.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",N,N
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Lambunao.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Phil,Phil
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Loppa.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Nor,N
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Trigono.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",G,G
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Entzheim.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",France,France
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Umarex.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tinapa Resort.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",N,N
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Media Development Authority.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Singapore,Singapore
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bannu.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Pakistan,Pakistan
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Camarate.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Port,Brazil
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Guillaumes.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",France,France
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Rantum.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,I
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Blackrock Castle.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",I,I
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Veyrier.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Sw,France
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Montemitro.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Italy,Italy
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider CD Eldense.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Spain,Spain
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Rio Quente.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Brazil,Brazil
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Wismar.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Waalhaven.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",N,N
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Atwell Peak.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Canada,Australia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Sadr City.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Iraq,Iraq
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bhinmal.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Nagoya University.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Japan,Japan
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Theni district.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bungsberg.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ruhla.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bolvadin.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Turkey,Turkey
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ulpiana.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",K,Spain
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider L'Escala.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Spain,Spain
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bunda District.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",T,Mal
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mbale District.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",U,U
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Namba Station.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Japan,Japan
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Uda District.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Japan,U
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Sabratha.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Lib,Lib
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Shoranur.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tartessos.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Spain,Spain
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Asian Highway Network.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,Viet
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Breege.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,I
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Prieto Diaz.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Phil,Spain
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Pinosava.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Ser,B
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kharga Oasis.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Egypt,Egypt
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Fischenthal.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Sw,A
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Parippally.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Fawkner.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Australia,Australia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ginza Line.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Japan,Japan
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Noyon.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",France,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Beles River.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Eth,B
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Dewa Province.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Japan,Japan
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Sarnia.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Canada,Canada
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Suwayq.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",O,O
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider South East Cape.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Australia,Canada
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Valvasone.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Italy,Italy
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mewat.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kondotty.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Adare Manor.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",I,I
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Flieden.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider County Carlow.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",I,I
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mumiy Troll.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Russia,Russia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Surat Basin.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Australia,Australia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Chaville.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",France,France
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Asian Highway Network.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Turkey,Viet
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Manyakheta.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,Bot
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Lerik District.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",A,A
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Hobart Zoo.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Australia,Australia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kume District.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Japan,Japan
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Simdega.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Honnavar.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Chancelade.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",France,France
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Hagenow.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider AMK Hub.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Singapore,Singapore
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Gio Linh.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Viet,Viet
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Wazzin.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Lib,N
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tiv people.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",N,N
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Nobel Peace Center.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Nor,Nor
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Piedecuesta.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Col,Col
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Gjerpen.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Nor,Nor
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Erbil SC.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Iraq,Iraq
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Teshie.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",G,G
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Southern Savonia.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Fin,Fin
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tirebolu.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Turkey,Turkey
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bedourie.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Australia,Australia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Berar Province.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,Pakistan
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Sardent.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",France,Italy
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Vernayaz.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Sw,Sw
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Pacentro.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Italy,Argentina
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Entracque.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Italy,France
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ponoy River.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Russia,Per
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Hersbruck.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Albertis Castle.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Italy,Spain
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Abu Ghosh.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Israel,Israel
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ruthweiler.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Wentworth Valley.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Canada,Australia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Pandoh Dam.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,Pakistan
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kresttsy.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Russia,U
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Madona District.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Lat,U
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Putyvl.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",U,U
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Spanish Armed Forces.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Spain,Spain
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Capdenac.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",France,France
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bispebjerg.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Den,Den
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Blennerville.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",I,I
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Panagarh.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",India,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mandailing language.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Ind,Ind
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Wakefield Park.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Australia,Australia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider East Karelia.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Russia,Fin
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Gaiola.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Italy,Brazil
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Leiria.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Port,Port
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Taranto Sport.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Italy,Italy
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Le Fuilet.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",France,France
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Treuchtlingen.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Minu District.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Iran,K
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider West Darfur.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",S,S
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tesco Organisation.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,UK
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Oshawa.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Canada,Canada
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ledaal.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Nor,Nor
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Nimmitabel.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Australia,Australia
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bad Wildungen.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Pragersko.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",S,B
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Col Agnel.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Italy,France
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kretinga.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",L,L
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Lipscani.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Roman,Roman
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Emscher.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Baturyn.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",U,U
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Hida Mountains.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Japan,Japan
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Zuiderzee.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",N,N
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Illertissen.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider KBC Bank.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Bel,Bel
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Yamato Museum.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Japan,Japan
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Central Black Forest.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Sahneh County.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Iran,Iran
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Nauders.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",A,A
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Glencree.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",I,I
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bzura.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Pol,Pol
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Emba River.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",K,India
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tatsuno.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Japan,Japan
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Wallmerod.
+Which country is this landmark in? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",Germany,Germany
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mark Isham.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tom Waits.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Terry Trotter.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,tr
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Roy Paci.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Robert Fripp.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kye Palmer.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Herbie Nichols.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider John Fogerty.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Brad Delson.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Dizzy Reed.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mark O'Connor.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Chris Thile.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Sarah Cahill.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bert Joris.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Michael Mantler.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ma Sicong.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ted Dwane.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Franz Liszt.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Maud Powell.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Elvis Presley.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mercer Ellington.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Clifford Curzon.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Friedrich Gulda.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Sheryl Crow.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Britney Spears.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",s,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Millard Powers.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Skylar Grey.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Yves Nat.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Melissa Etheridge.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Georgie Fame.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Bella Davidovich.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Matthew Tuck.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Arthur Rubinstein.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Georges Mathias.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Johannes Brahms.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Linda Brava.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Pete Jolly.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider David Isberg.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Earl Klugh.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ralph Alessi.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,tr
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Count Basie.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Al Kooper.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Maynard Ferguson.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,tr
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Johann Stamitz.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Edmund Neupert.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Gerard Presencer.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Malcolm Goldstein.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Rodrigo Prats.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Gideon Klein.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Friedrich Wieck.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Sergiu Luca.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Alvino Rey.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Frederick Grinke.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tim Vesely.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Eddie Palmieri.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Gerry Beckley.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mel Schacher.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Matt Riddle.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Michael Nyman.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Garth Brooks.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ed O'Brien.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Les Claypool.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Leroy Jones.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Grant Kirkhope.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Floor Jansen.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,s
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ashley Hutchings.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Millard Powers.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Nikki Iles.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Claus Schall.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Marvin Stamm.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Herbert Fryer.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Boris Berman.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Harry Nilsson.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Lee Mavers.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Henry Busse.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Geoff Eales.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider John Mayall.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Michael Denner.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Aretha Franklin.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Peter Rainer.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Percy Grainger.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Boris Belkin.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Thad Jones.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,tr
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Robert Schumann.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Stephen Hough.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Mark Feldman.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Dennis Coffey.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider William Bolcom.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tania Maria.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Rod Argent.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Jane Getz.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Chris Hillman.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Henry Halstead.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Jonas Berggren.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Rick Wakeman.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Jared Leto.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Suna Kan.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Neil Hagerty.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider John Hiatt.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Nat King Cole.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Antonio Rolla.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Oscar Levant.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Johann Strauss I.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Tom Barman.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Marc Ribot.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Julian Rachlin.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Al Hirt.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,tr
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Phranc.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Franz Benda.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Jason Rebello.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Fanny Davies.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Gene Pitney.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Pat Sansone.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Daniel Mongrain.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Nat Gonella.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,s
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Rubin Goldmark.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Marin Alsop.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Steve Kuhn.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Kenneth Leighton.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Jared Leto.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Francisco Canaro.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,vi
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Paul Anka.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Ivor McMahon.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,p
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Wild Bill Davis.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Nigel Butterley.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Liz Phair.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",g,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Louis Prima.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",tr,s
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Seth Lakeman.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",vi,g
+"<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+Consider Carla Bley.
+What instrument does this person play? Answer in a single word.<|im_end|>
+<|im_start|>assistant
+",p,p

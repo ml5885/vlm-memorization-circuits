@@ -1,0 +1,1529 @@
+relative_image_path,prompt,gt_answer,pred_answer
+images/3_people_1_bag_3_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_people_1_bag_3_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_people_1_bag_3_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/4_apple_1_tree_2_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/4_apple_1_tree_2_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""tree"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/4_apple_1_tree_2_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bird"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/4_boat_3_people.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/4_boat_3_people.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,5
+images/6_boat_1_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",6,1
+images/6_boat_1_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bike"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/7_book.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_girl.png,"<bos><start_of_turn>user
+<start_of_image>How many ""girl"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_knife.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/6_fork_1_knife.png,"<bos><start_of_turn>user
+<start_of_image>How many ""fork"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",6,6
+images/6_fork_1_knife.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_ball_1_bag_5_coin.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_ball_1_bag_5_coin.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_ball_1_bag_5_coin.png,"<bos><start_of_turn>user
+<start_of_image>How many ""coin"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",5,6
+images/1_knife_3_apple_1_bag_2_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_knife_3_apple_1_bag_2_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/1_knife_3_apple_1_bag_2_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_knife_3_apple_1_bag_2_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,3
+images/2_bag_5_ball.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_bag_5_ball.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",5,5
+images/2_boy_4_truck_1_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_boy_4_truck_1_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""truck"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/2_boy_4_truck_1_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_bag_1_hat_1_dog_2_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_bag_1_hat_1_dog_2_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""hat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_bag_1_hat_1_dog_2_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""dog"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,2
+images/3_bag_1_hat_1_dog_2_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bike"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/3_bag_2_bird_1_boat_1_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_bag_2_bird_1_boat_1_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bird"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,3
+images/3_bag_2_bird_1_boat_1_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_bag_2_bird_1_boat_1_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cup"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/4_ball_3_cow.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,6
+images/4_ball_3_cow.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cow"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/7_apple_x1.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_apple_x8.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_apple_x9.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,8
+images/7_ball_x9.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_boat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_cow_x2.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cow"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,8
+images/7_dog_x6.png,"<bos><start_of_turn>user
+<start_of_image>How many ""dog"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,9
+images/7_flower_x9.png,"<bos><start_of_turn>user
+<start_of_image>How many ""flower"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,8
+images/7_fork_x9.png,"<bos><start_of_turn>user
+<start_of_image>How many ""fork"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_horse.png,"<bos><start_of_turn>user
+<start_of_image>How many ""horse"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,6
+images/7_horse_x9.png,"<bos><start_of_turn>user
+<start_of_image>How many ""horse"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,8
+images/7_knife_x2.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_knife_x9.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_orange_x1.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_orange_x9.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_people_x1.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_tree_x2.png,"<bos><start_of_turn>user
+<start_of_image>How many ""tree"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_tree_x8.png,"<bos><start_of_turn>user
+<start_of_image>How many ""tree"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_apple_x13.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_ball_x7.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_ball_x767.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,9
+images/7_book_x123.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,8
+images/7_cup_x8.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cup"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_cup_x12.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cup"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_dog_x1.png,"<bos><start_of_turn>user
+<start_of_image>How many ""dog"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,9
+images/7_knife_x1.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_knife_x39.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,8
+images/7_orange_x93.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,8
+images/7_people_x32.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,8
+images/7_people_x76.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_book_x45.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,8
+images/7_people_x51.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_knife_x12.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_people_x78.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_book_x12.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_book_x21.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,8
+images/7_truck_x9.png,"<bos><start_of_turn>user
+<start_of_image>How many ""truck"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,8
+images/7_ball_x94.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,6
+images/7_apple_x2.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,1
+images/7_cat_x9.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,8
+images/7_fork_x91.png,"<bos><start_of_turn>user
+<start_of_image>How many ""fork"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,6
+images/7_horse_x29.png,"<bos><start_of_turn>user
+<start_of_image>How many ""horse"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,6
+images/1_bag_1_bike_1_cat_4_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bag_1_bike_1_cat_4_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bike"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bag_1_bike_1_cat_4_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bag_1_bike_1_cat_4_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,7
+images/1_bag_2_boy_2_apple_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bag_2_boy_2_apple_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,3
+images/1_bag_2_boy_2_apple_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_bag_2_boy_2_apple_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,3
+images/1_bag_3_key_1_coin_2_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bag_3_key_1_coin_2_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""key"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/1_bag_3_key_1_coin_2_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""coin"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bag_3_key_1_coin_2_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_bag_3_key_2_orange_1_cow.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bag_3_key_2_orange_1_cow.png,"<bos><start_of_turn>user
+<start_of_image>How many ""key"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/1_bag_3_key_2_orange_1_cow.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_bag_3_key_2_orange_1_cow.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cow"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bag_6_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bag_6_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",6,6
+images/1_ball_1_cow_1_bag_4_hat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,2
+images/1_ball_1_cow_1_bag_4_hat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cow"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_ball_1_cow_1_bag_4_hat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_ball_1_cow_1_bag_4_hat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""hat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/1_banana_3_cup_3_people.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_banana_3_cup_3_people.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cup"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,4
+images/1_banana_3_cup_3_people.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/1_bike_2_bird_3_card_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bike"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bike_2_bird_3_card_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bird"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_bike_2_bird_3_card_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""card"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,2
+images/1_bike_2_bird_3_card_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bird_3_people_1_cow_2_leaf.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bird"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bird_3_people_1_cow_2_leaf.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/1_bird_3_people_1_cow_2_leaf.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cow"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bird_5_book_1_car.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bird"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_bird_5_book_1_car.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",5,6
+images/1_bird_5_book_1_car.png,"<bos><start_of_turn>user
+<start_of_image>How many ""car"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_boat_1_hat_1_cup_4_card.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_boat_1_hat_1_cup_4_card.png,"<bos><start_of_turn>user
+<start_of_image>How many ""hat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_boat_1_hat_1_cup_4_card.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cup"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_boat_1_hat_1_cup_4_card.png,"<bos><start_of_turn>user
+<start_of_image>How many ""card"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/1_boat_3_truck_3_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,2
+images/1_boat_3_truck_3_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""truck"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,2
+images/1_boat_3_truck_3_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bike"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,1
+images/1_book_1_boat_1_fork_4_people.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_book_1_boat_1_fork_4_people.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_book_1_boat_1_fork_4_people.png,"<bos><start_of_turn>user
+<start_of_image>How many ""fork"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_book_1_boat_1_fork_4_people.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/1_boy_2_cow_4_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_boy_2_cow_4_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cow"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_boy_2_cow_4_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cup"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/1_boy_6_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_boy_6_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",6,6
+images/1_cat_4_bag_2_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_cat_4_bag_2_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,6
+images/1_cat_4_bag_2_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bike"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,3
+images/1_chair_2_card_4_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_chair_2_card_4_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""card"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_chair_2_card_4_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cup"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/1_chair_3_leaf_2_ball_1_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_chair_3_leaf_2_ball_1_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_chair_3_leaf_2_ball_1_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_coin_5_apple_1_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""coin"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_coin_5_apple_1_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",5,6
+images/1_coin_5_apple_1_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""key"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_cow_1_tree_5_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cow"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_cow_1_tree_5_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""tree"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_cow_1_tree_5_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",5,5
+images/1_dog_3_knife_2_card_1_horse.png,"<bos><start_of_turn>user
+<start_of_image>How many ""dog"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,2
+images/1_dog_3_knife_2_card_1_horse.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/1_dog_3_knife_2_card_1_horse.png,"<bos><start_of_turn>user
+<start_of_image>How many ""card"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_dog_3_knife_2_card_1_horse.png,"<bos><start_of_turn>user
+<start_of_image>How many ""horse"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,3
+images/1_fork_3_coin_2_apple_1_horse.png,"<bos><start_of_turn>user
+<start_of_image>How many ""fork"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_fork_3_coin_2_apple_1_horse.png,"<bos><start_of_turn>user
+<start_of_image>How many ""coin"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,4
+images/1_fork_3_coin_2_apple_1_horse.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_fork_3_coin_2_apple_1_horse.png,"<bos><start_of_turn>user
+<start_of_image>How many ""horse"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_girl_5_book_1_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""girl"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_girl_5_book_1_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",5,6
+images/1_girl_5_book_1_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_hat_2_flower_3_apple_1_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""hat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_hat_2_flower_3_apple_1_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""flower"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_hat_2_flower_3_apple_1_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/1_hat_2_flower_3_apple_1_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bird"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_horse_1_key_5_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""horse"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_horse_1_key_5_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""key"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_horse_1_key_5_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",5,5
+images/1_horse_3_people_3_hat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""horse"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_horse_3_people_3_hat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/1_horse_3_people_3_hat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""hat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,4
+images/1_knife_1_tree_3_toy_2_boat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_knife_1_tree_3_toy_2_boat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""tree"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_knife_1_tree_3_toy_2_boat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""toy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,6
+images/1_knife_1_tree_3_toy_2_boat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_leaf_5_people_1_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",5,6
+images/1_leaf_5_people_1_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""key"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_orange_2_car_2_cow_2_dog.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_orange_2_car_2_cow_2_dog.png,"<bos><start_of_turn>user
+<start_of_image>How many ""car"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_orange_2_car_2_cow_2_dog.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cow"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_orange_2_car_2_cow_2_dog.png,"<bos><start_of_turn>user
+<start_of_image>How many ""dog"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_people_1_book_3_coin_2_fork.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_people_1_book_3_coin_2_fork.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_people_1_book_3_coin_2_fork.png,"<bos><start_of_turn>user
+<start_of_image>How many ""coin"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,6
+images/1_people_1_book_3_coin_2_fork.png,"<bos><start_of_turn>user
+<start_of_image>How many ""fork"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_people_2_horse_3_flower_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_people_2_horse_3_flower_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""horse"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_people_2_horse_3_flower_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""flower"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,6
+images/1_people_2_horse_3_flower_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_tree_1_truck_2_apple_3_cow.png,"<bos><start_of_turn>user
+<start_of_image>How many ""tree"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_tree_1_truck_2_apple_3_cow.png,"<bos><start_of_turn>user
+<start_of_image>How many ""truck"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_tree_1_truck_2_apple_3_cow.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/1_tree_1_truck_2_apple_3_cow.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cow"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,5
+images/1_tree_4_cat_2_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""tree"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/1_tree_4_cat_2_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/1_tree_4_cat_2_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bike"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,4
+images/2_bag_5_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_bag_5_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",5,5
+images/2_ball_2_coin_2_orange_1_leaf.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_ball_2_coin_2_orange_1_leaf.png,"<bos><start_of_turn>user
+<start_of_image>How many ""coin"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_ball_2_coin_2_orange_1_leaf.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,3
+images/2_bike_1_car_1_card_3_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bike"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_bike_1_car_1_card_3_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""car"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_bike_1_car_1_card_3_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""card"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_bike_1_car_1_card_3_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bird"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/2_bike_1_chair_1_car_3_ball.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bike"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,5
+images/2_bike_1_chair_1_car_3_ball.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_bike_1_chair_1_car_3_ball.png,"<bos><start_of_turn>user
+<start_of_image>How many ""car"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_bike_1_chair_1_car_3_ball.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/2_bird_3_cat_1_boat_1_knife.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bird"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_bird_3_cat_1_boat_1_knife.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/2_bird_3_cat_1_boat_1_knife.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_bird_3_cat_1_boat_1_knife.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_boy_2_fork_3_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_boy_2_fork_3_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""fork"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_boy_2_fork_3_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/2_card_3_cat_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""card"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,3
+images/2_card_3_cat_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,4
+images/2_card_3_cat_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,3
+images/2_cat_3_cup_2_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_cat_3_cup_2_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cup"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,4
+images/2_cat_3_cup_2_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bird"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_chair_2_bike_3_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_chair_2_bike_3_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bike"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,1
+images/2_chair_2_bike_3_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,4
+images/2_cow_3_coin_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cow"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_cow_3_coin_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""coin"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/2_cow_3_coin_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_cup_1_chair_2_flower_2_toy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cup"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,3
+images/2_cup_1_chair_2_flower_2_toy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_cup_1_chair_2_flower_2_toy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""flower"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_cup_1_chair_2_flower_2_toy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""toy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,4
+images/2_fork_1_knife_2_card_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""fork"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_fork_1_knife_2_card_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_fork_1_knife_2_card_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""card"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_fork_1_knife_2_card_2_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_fork_1_orange_1_cup_3_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""fork"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_fork_1_orange_1_cup_3_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_fork_1_orange_1_cup_3_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cup"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_fork_1_orange_1_cup_3_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""key"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,4
+images/2_fork_3_hat_1_knife_1_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""fork"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,3
+images/2_fork_3_hat_1_knife_1_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""hat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/2_fork_3_hat_1_knife_1_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_fork_3_hat_1_knife_1_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cup"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_girl_4_coin_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""girl"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_girl_4_coin_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""coin"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/2_girl_4_coin_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_girl_4_key_1_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""girl"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_girl_4_key_1_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""key"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,3
+images/2_girl_4_key_1_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_hat_3_coin_2_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""hat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_hat_3_coin_2_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""coin"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/2_hat_3_coin_2_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""key"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_knife_2_dog_3_coin.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_knife_2_dog_3_coin.png,"<bos><start_of_turn>user
+<start_of_image>How many ""dog"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_knife_2_dog_3_coin.png,"<bos><start_of_turn>user
+<start_of_image>How many ""coin"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/2_leaf_1_orange_4_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,5
+images/2_leaf_1_orange_4_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/2_people_3_knife_2_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_people_3_knife_2_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/2_people_3_knife_2_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,3
+images/2_tree_3_apple_1_fork_1_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""tree"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/2_tree_3_apple_1_fork_1_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/2_tree_3_apple_1_fork_1_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""fork"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/2_tree_3_apple_1_fork_1_bird.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bird"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_apple_1_boat_3_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_apple_1_boat_3_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_apple_1_boat_3_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_ball_1_cat_3_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_ball_1_cat_3_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,3
+images/3_ball_1_cat_3_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""key"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_ball_3_flower_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,2
+images/3_ball_3_flower_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""flower"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,4
+images/3_ball_3_flower_1_boy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_banana_1_bird_3_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_banana_1_bird_3_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bird"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_banana_1_bird_3_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_banana_1_boy_2_cat_1_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_banana_1_boy_2_cat_1_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_banana_1_boy_2_cat_1_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/3_banana_1_boy_2_cat_1_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_banana_1_dog_2_book_1_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,5
+images/3_banana_1_dog_2_book_1_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""dog"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_banana_1_dog_2_book_1_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,3
+images/3_banana_1_dog_2_book_1_chair.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_boat_3_horse_1_people.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_boat_3_horse_1_people.png,"<bos><start_of_turn>user
+<start_of_image>How many ""horse"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_boat_3_horse_1_people.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_book_3_banana_1_knife.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,4
+images/3_book_3_banana_1_knife.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_book_3_banana_1_knife.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_boy_2_dog_2_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_boy_2_dog_2_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""dog"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/3_boy_2_dog_2_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/3_boy_4_ball.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_boy_4_ball.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/3_cat_4_leaf.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_cat_4_toy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_cat_4_toy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""toy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/3_chair_2_cat_2_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_chair_2_cat_2_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/3_chair_2_cat_2_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/3_chair_4_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""chair"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_chair_4_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/3_coin_4_hat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""coin"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_coin_4_hat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""hat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/3_fork_2_apple_2_leaf.png,"<bos><start_of_turn>user
+<start_of_image>How many ""fork"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_fork_2_apple_2_leaf.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/3_fork_2_tree_1_boat_1_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""fork"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,2
+images/3_fork_2_tree_1_boat_1_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""tree"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/3_fork_2_tree_1_boat_1_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_fork_2_tree_1_boat_1_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_girl_1_boat_3_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""girl"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_girl_1_boat_3_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_girl_1_boat_3_banana.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,1
+images/3_hat_1_bike_1_leaf_2_coin.png,"<bos><start_of_turn>user
+<start_of_image>How many ""hat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,4
+images/3_hat_1_bike_1_leaf_2_coin.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bike"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_hat_1_bike_1_leaf_2_coin.png,"<bos><start_of_turn>user
+<start_of_image>How many ""coin"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/3_key_2_cow_2_leaf.png,"<bos><start_of_turn>user
+<start_of_image>How many ""key"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_key_2_cow_2_leaf.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cow"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/3_knife_4_ball.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_knife_4_ball.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/3_leaf_3_banana_1_boat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,5
+images/3_leaf_3_banana_1_boat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_orange_3_leaf_1_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,6
+images/3_orange_3_leaf_1_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/3_orange_4_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_orange_4_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/3_orange_4_girl.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,1
+images/3_orange_4_girl.png,"<bos><start_of_turn>user
+<start_of_image>How many ""girl"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/3_people_3_bike_1_car.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_people_3_bike_1_car.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bike"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/3_people_3_bike_1_car.png,"<bos><start_of_turn>user
+<start_of_image>How many ""car"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/4_ball_1_knife_2_card.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/4_ball_1_knife_2_card.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/4_ball_1_knife_2_card.png,"<bos><start_of_turn>user
+<start_of_image>How many ""card"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/4_ball_2_book_1_tree.png,"<bos><start_of_turn>user
+<start_of_image>How many ""ball"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/4_ball_2_book_1_tree.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/4_ball_2_book_1_tree.png,"<bos><start_of_turn>user
+<start_of_image>How many ""tree"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/4_banana_3_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/4_banana_3_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,4
+images/4_banana_3_flower.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,6
+images/4_banana_3_flower.png,"<bos><start_of_turn>user
+<start_of_image>How many ""flower"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/4_boat_3_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/4_boat_3_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,5
+images/4_book_2_bird_1_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/4_book_2_bird_1_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bird"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/4_book_2_bird_1_apple.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/4_book_2_dog_1_boat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""book"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/4_book_2_dog_1_boat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""dog"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,3
+images/4_book_2_dog_1_boat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/4_dog_1_boat_2_car.png,"<bos><start_of_turn>user
+<start_of_image>How many ""dog"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/4_dog_1_boat_2_car.png,"<bos><start_of_turn>user
+<start_of_image>How many ""boat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/4_dog_1_boat_2_car.png,"<bos><start_of_turn>user
+<start_of_image>How many ""car"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/4_horse_3_toy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""horse"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/4_horse_3_toy.png,"<bos><start_of_turn>user
+<start_of_image>How many ""toy"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,5
+images/4_key_3_horse.png,"<bos><start_of_turn>user
+<start_of_image>How many ""key"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,3
+images/4_key_3_horse.png,"<bos><start_of_turn>user
+<start_of_image>How many ""horse"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/4_orange_3_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,5
+images/4_orange_3_bag.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/4_people_3_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",4,4
+images/4_people_3_cup.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cup"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",3,3
+images/5_apple_2_horse.png,"<bos><start_of_turn>user
+<start_of_image>How many ""apple"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",5,5
+images/5_apple_2_horse.png,"<bos><start_of_turn>user
+<start_of_image>How many ""horse"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/5_leaf_1_horse_1_flower.png,"<bos><start_of_turn>user
+<start_of_image>How many ""horse"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/5_leaf_1_horse_1_flower.png,"<bos><start_of_turn>user
+<start_of_image>How many ""flower"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/5_orange_1_bag_1_flower.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",5,7
+images/5_orange_1_bag_1_flower.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bag"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/5_orange_1_bag_1_flower.png,"<bos><start_of_turn>user
+<start_of_image>How many ""flower"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/5_orange_2_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",5,7
+images/5_orange_2_bike.png,"<bos><start_of_turn>user
+<start_of_image>How many ""bike"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",2,2
+images/6_dog_1_car.png,"<bos><start_of_turn>user
+<start_of_image>How many ""dog"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",6,6
+images/6_dog_1_car.png,"<bos><start_of_turn>user
+<start_of_image>How many ""car"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/6_knife_1_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",6,6
+images/6_knife_1_cat.png,"<bos><start_of_turn>user
+<start_of_image>How many ""cat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/6_people_1_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""people"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",6,6
+images/6_people_1_key.png,"<bos><start_of_turn>user
+<start_of_image>How many ""key"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",1,1
+images/7_banana_x1.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_banana_x64.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_banana_x98.png,"<bos><start_of_turn>user
+<start_of_image>How many ""banana"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_car.png,"<bos><start_of_turn>user
+<start_of_image>How many ""car"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,6
+images/7_coin.png,"<bos><start_of_turn>user
+<start_of_image>How many ""coin"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_hat_x76.png,"<bos><start_of_turn>user
+<start_of_image>How many ""hat"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,9
+images/7_knife_x89.png,"<bos><start_of_turn>user
+<start_of_image>How many ""knife"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,8
+images/7_orange.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7
+images/7_orange_x15.png,"<bos><start_of_turn>user
+<start_of_image>How many ""orange"" are in the image? Answer in a single number.<end_of_turn>
+<start_of_turn>model
+",7,7

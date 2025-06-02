@@ -1,0 +1,2261 @@
+prompt,gt_answer,pred_answer
+"<bos><start_of_turn>user
+Consider Luis Scola.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",basketball,basketball
+"<bos><start_of_turn>user
+Consider Satchel Paige.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Dennis Rodman.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",basketball,basketball
+"<bos><start_of_turn>user
+Consider Tim Tebow.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Andrea Pirlo.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",soccer,soccer
+"<bos><start_of_turn>user
+Consider Jesse Hibbs.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,hockey
+"<bos><start_of_turn>user
+Consider Jim Bunning.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Troy Aikman.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Joakim Noah.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",basketball,basketball
+"<bos><start_of_turn>user
+Consider Sergei Fedorov.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Herschel Walker.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Larry Doby.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Tony Gwynn.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Leon Allen White.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Drew Brees.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Warren Spahn.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Woody Strode.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Eric Lindros.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Christy Mathewson.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Siem de Jong.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",soccer,soccer
+"<bos><start_of_turn>user
+Consider Phil Esposito.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Ichiro Suzuki.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Bubba Smith.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Efren Navarro.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Marcos Mondaini.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",soccer,sw
+"<bos><start_of_turn>user
+Consider Marc Gasol.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",basketball,basketball
+"<bos><start_of_turn>user
+Consider Walter Zenga.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",soccer,football
+"<bos><start_of_turn>user
+Consider Kendall Waston.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",soccer,soccer
+"<bos><start_of_turn>user
+Consider Alexei Kovalev.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider George Halas.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,football
+"<bos><start_of_turn>user
+Consider Dick Butkus.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Kasey Keller.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",soccer,soccer
+"<bos><start_of_turn>user
+Consider Stan Musial.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Tommie Smith.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,s
+"<bos><start_of_turn>user
+Consider Lionel Conacher.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Honus Wagner.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Mickey Mantle.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Allen Iverson.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",basketball,basketball
+"<bos><start_of_turn>user
+Consider Tom Seaver.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Michael Strahan.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Sergei Makarov.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Danny Ainge.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,basketball
+"<bos><start_of_turn>user
+Consider Roger Staubach.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Roy Campanella.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Don Shula.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Emmitt Smith.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Brian Bosworth.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Terry Sawchuk.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Johnny Unitas.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Mark Messier.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Kevin Garnett.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",basketball,basketball
+"<bos><start_of_turn>user
+Consider Alex Karras.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Stan Mikita.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Elroy Hirsch.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Carl Weathers.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Kenny Lofton.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Nick Swisher.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Shane Doan.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider John Elway.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Nigel de Jong.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",soccer,soccer
+"<bos><start_of_turn>user
+Consider Ilya Kovalchuk.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Peter Forsberg.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Claudio Reyna.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",soccer,soccer
+"<bos><start_of_turn>user
+Consider Boris Diaw.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",basketball,basketball
+"<bos><start_of_turn>user
+Consider Julius Erving.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",basketball,basketball
+"<bos><start_of_turn>user
+Consider Guy Lafleur.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Yu Darvish.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Casey Stengel.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Carmelo Anthony.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",basketball,basketball
+"<bos><start_of_turn>user
+Consider Pau Gasol.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",basketball,basketball
+"<bos><start_of_turn>user
+Consider Tony Dungy.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Ollie Matson.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Gordie Howe.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Joe Namath.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Dave Winfield.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Yogi Berra.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,baseball
+"<bos><start_of_turn>user
+Consider Egidio Rios.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",soccer,soccer
+"<bos><start_of_turn>user
+Consider Wayne Gretzky.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Deion Sanders.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,football
+"<bos><start_of_turn>user
+Consider Mario Lemieux.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Brock Lesnar.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",football,football
+"<bos><start_of_turn>user
+Consider Chuck Connors.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",baseball,basketball
+"<bos><start_of_turn>user
+Consider Jermaine Jones.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",soccer,soccer
+"<bos><start_of_turn>user
+Consider Paul Kariya.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",hockey,hockey
+"<bos><start_of_turn>user
+Consider Usain Bolt.
+What sport does this athlete play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",s,s
+"<bos><start_of_turn>user
+Consider Kilkenny Castle.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ireland,Ireland
+"<bos><start_of_turn>user
+Consider Lake Baikal.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Russia,Russia
+"<bos><start_of_turn>user
+Consider Karnak Temple.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Egypt,Egypt
+"<bos><start_of_turn>user
+Consider Abu Simbel.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Egypt,Egypt
+"<bos><start_of_turn>user
+Consider Siwa Oasis.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Egypt,Egypt
+"<bos><start_of_turn>user
+Consider Ring of Kerry.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ireland,Ireland
+"<bos><start_of_turn>user
+Consider Cotswolds.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",UK,UK
+"<bos><start_of_turn>user
+Consider Dordogne Valley.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",France,France
+"<bos><start_of_turn>user
+Consider Tuscany Countryside.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Italy,Italy
+"<bos><start_of_turn>user
+Consider Douro Valley.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Portugal,Portugal
+"<bos><start_of_turn>user
+Consider Bruges Canals.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Belgium,Belgium
+"<bos><start_of_turn>user
+Consider Kinderdijk.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Netherlands,Netherlands
+"<bos><start_of_turn>user
+Consider Dubrovnik City Walls.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Cro,Cro
+"<bos><start_of_turn>user
+Consider Sveti Stefan.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Mont,Mont
+"<bos><start_of_turn>user
+Consider Kuala Langat.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Malaysia,Malaysia
+"<bos><start_of_turn>user
+Consider Attingal.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Adliswil.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Switzerland,Switzerland
+"<bos><start_of_turn>user
+Consider Borovsky District.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Russia,Russia
+"<bos><start_of_turn>user
+Consider Kosi Zone.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Nepal,Nepal
+"<bos><start_of_turn>user
+Consider Mandara Mountains.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Nigeria,Nigeria
+"<bos><start_of_turn>user
+Consider Agios Dimitrios.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Greece,Greece
+"<bos><start_of_turn>user
+Consider Imsland.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Norway,Norway
+"<bos><start_of_turn>user
+Consider Pontecorvo.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Italy,Italy
+"<bos><start_of_turn>user
+Consider Jan Amora.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ethiop,Brazil
+"<bos><start_of_turn>user
+Consider Canjuers.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",France,France
+"<bos><start_of_turn>user
+Consider Giurgiu County.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Romania,Romania
+"<bos><start_of_turn>user
+Consider Ballydehob.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ireland,Ireland
+"<bos><start_of_turn>user
+Consider Rankuh District.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Iran,Japan
+"<bos><start_of_turn>user
+Consider Capolago.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Switzerland,Switzerland
+"<bos><start_of_turn>user
+Consider Toronto Police Service.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Canada,Canada
+"<bos><start_of_turn>user
+Consider Pilis Mountains.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Hungary,Hungary
+"<bos><start_of_turn>user
+Consider Bad Vilbel.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider Dawa River.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Som,Ethiop
+"<bos><start_of_turn>user
+Consider Kayunga District.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ug,Ug
+"<bos><start_of_turn>user
+Consider Bobolice.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Poland,Italy
+"<bos><start_of_turn>user
+Consider Sakarya Province.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Turkey,Turkey
+"<bos><start_of_turn>user
+Consider Zwiefalten.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider Bliesgau.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider Iximche.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Gu,Gu
+"<bos><start_of_turn>user
+Consider Mudgee.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Australia,Australia
+"<bos><start_of_turn>user
+Consider Tursi.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Italy,Italy
+"<bos><start_of_turn>user
+Consider Kalvola.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Finland,Finland
+"<bos><start_of_turn>user
+Consider Sarnaki.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Poland,Poland
+"<bos><start_of_turn>user
+Consider Garibaldi Ranges.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Canada,Canada
+"<bos><start_of_turn>user
+Consider Hong San See.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Singapore,Malaysia
+"<bos><start_of_turn>user
+Consider Amsterdam dance event.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Netherlands,Netherlands
+"<bos><start_of_turn>user
+Consider Hohenwestedt.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider Kibungo Province.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Rw,Rw
+"<bos><start_of_turn>user
+Consider Menangle Park.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Australia,Australia
+"<bos><start_of_turn>user
+Consider Kahrizak.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Iran,Iran
+"<bos><start_of_turn>user
+Consider Marugame.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Japan,Japan
+"<bos><start_of_turn>user
+Consider Pakpattan.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Pakistan,Pakistan
+"<bos><start_of_turn>user
+Consider Ankenes.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Norway,Norway
+"<bos><start_of_turn>user
+Consider Cocconato.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Italy,Italy
+"<bos><start_of_turn>user
+Consider Pontigny Abbey.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",France,France
+"<bos><start_of_turn>user
+Consider Kununurra.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Australia,Australia
+"<bos><start_of_turn>user
+Consider Kaniv Reservoir.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ukraine,Ukraine
+"<bos><start_of_turn>user
+Consider Sidhi district.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,Nepal
+"<bos><start_of_turn>user
+Consider Ticho House.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Israel,Israel
+"<bos><start_of_turn>user
+Consider House of Representatives.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Lib,USA
+"<bos><start_of_turn>user
+Consider Jafara.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Lib,Sud
+"<bos><start_of_turn>user
+Consider Ljig.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Serbia,Serbia
+"<bos><start_of_turn>user
+Consider Vierlingsbeek.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Netherlands,Netherlands
+"<bos><start_of_turn>user
+Consider Ferrobaires.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Argentina,Argentina
+"<bos><start_of_turn>user
+Consider Bugis Junction.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Singapore,Singapore
+"<bos><start_of_turn>user
+Consider Were Ilu.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ethiop,Italy
+"<bos><start_of_turn>user
+Consider Simeulue.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Indonesia,Indonesia
+"<bos><start_of_turn>user
+Consider Guldborg.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Denmark,Denmark
+"<bos><start_of_turn>user
+Consider Papantla.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Mexico,Mexico
+"<bos><start_of_turn>user
+Consider Kottarakkara.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Helsinki City Hall.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Finland,Finland
+"<bos><start_of_turn>user
+Consider Uromi.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Nigeria,Nigeria
+"<bos><start_of_turn>user
+Consider Lambunao.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Philippines,Philippines
+"<bos><start_of_turn>user
+Consider Entzheim.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",France,France
+"<bos><start_of_turn>user
+Consider Umarex.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider Bangarapet.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Tinapa Resort.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Nigeria,Nigeria
+"<bos><start_of_turn>user
+Consider Media Development Authority.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Singapore,Singapore
+"<bos><start_of_turn>user
+Consider Zbuczyn.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Poland,Poland
+"<bos><start_of_turn>user
+Consider Karimnagar district.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Guillaumes.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",France,France
+"<bos><start_of_turn>user
+Consider Rottumerplaat.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Netherlands,Netherlands
+"<bos><start_of_turn>user
+Consider Blackrock Castle.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ireland,Ireland
+"<bos><start_of_turn>user
+Consider County Leitrim.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ireland,Ireland
+"<bos><start_of_turn>user
+Consider Veyrier.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Switzerland,Switzerland
+"<bos><start_of_turn>user
+Consider Montemitro.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Italy,Italy
+"<bos><start_of_turn>user
+Consider CD Eldense.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Spain,Spain
+"<bos><start_of_turn>user
+Consider Rio Quente.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Brazil,Brazil
+"<bos><start_of_turn>user
+Consider Waalhaven.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Netherlands,Netherlands
+"<bos><start_of_turn>user
+Consider Atwell Peak.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Canada,Australia
+"<bos><start_of_turn>user
+Consider Sadr City.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Iraq,Iraq
+"<bos><start_of_turn>user
+Consider Bhinmal.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Theni district.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Bungsberg.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider Bolvadin.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Turkey,Turkey
+"<bos><start_of_turn>user
+Consider Ulpiana.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Kos,Kos
+"<bos><start_of_turn>user
+Consider Hohenlohe.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider Mbale District.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ug,Ug
+"<bos><start_of_turn>user
+Consider Namba Station.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Japan,Japan
+"<bos><start_of_turn>user
+Consider Sabratha.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Lib,Lib
+"<bos><start_of_turn>user
+Consider Shoranur.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Niederweningen.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Switzerland,Germany
+"<bos><start_of_turn>user
+Consider Wabush Airport.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Canada,Canada
+"<bos><start_of_turn>user
+Consider Kitakami Station.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Japan,Japan
+"<bos><start_of_turn>user
+Consider Vaujany.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",France,France
+"<bos><start_of_turn>user
+Consider Tartessos.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Spain,Spain
+"<bos><start_of_turn>user
+Consider Vinkeveen.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Netherlands,Netherlands
+"<bos><start_of_turn>user
+Consider Asian Highway Network.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,Nepal
+"<bos><start_of_turn>user
+Consider Prieto Diaz.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Philippines,Spain
+"<bos><start_of_turn>user
+Consider Papanasam.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Pinosava.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Serbia,Serbia
+"<bos><start_of_turn>user
+Consider Kharga Oasis.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Egypt,Egypt
+"<bos><start_of_turn>user
+Consider Fischenthal.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Switzerland,Germany
+"<bos><start_of_turn>user
+Consider Parippally.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Fawkner.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Australia,Australia
+"<bos><start_of_turn>user
+Consider Kojur District.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Iran,Afghanistan
+"<bos><start_of_turn>user
+Consider Ginza Line.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Japan,Japan
+"<bos><start_of_turn>user
+Consider Beles River.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ethiop,Ethiop
+"<bos><start_of_turn>user
+Consider Dewa Province.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Japan,Japan
+"<bos><start_of_turn>user
+Consider Suwayq.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",O,O
+"<bos><start_of_turn>user
+Consider South East Cape.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Australia,Australia
+"<bos><start_of_turn>user
+Consider Valvasone.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Italy,Italy
+"<bos><start_of_turn>user
+Consider Koriya district.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,Japan
+"<bos><start_of_turn>user
+Consider Kondotty.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Toulouges.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",France,France
+"<bos><start_of_turn>user
+Consider Adare Manor.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ireland,Ireland
+"<bos><start_of_turn>user
+Consider County Carlow.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ireland,Ireland
+"<bos><start_of_turn>user
+Consider Mumiy Troll.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Russia,Russia
+"<bos><start_of_turn>user
+Consider Asian Highway Network.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Turkey,Nepal
+"<bos><start_of_turn>user
+Consider Manyakheta.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Alouette Lake.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Canada,Canada
+"<bos><start_of_turn>user
+Consider Lerik District.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Azer,Azer
+"<bos><start_of_turn>user
+Consider Kume District.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Japan,Japan
+"<bos><start_of_turn>user
+Consider Simdega.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Honnavar.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Tampere Cathedral.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Finland,Finland
+"<bos><start_of_turn>user
+Consider Chancelade.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",France,France
+"<bos><start_of_turn>user
+Consider Helmbrechts.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider AMK Hub.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Singapore,Singapore
+"<bos><start_of_turn>user
+Consider regiopolis.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Belgium
+"<bos><start_of_turn>user
+Consider Kazinga Channel.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ug,Ug
+"<bos><start_of_turn>user
+Consider Wazzin.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Lib,Italy
+"<bos><start_of_turn>user
+Consider Nobel Peace Center.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Norway,Norway
+"<bos><start_of_turn>user
+Consider Piedecuesta.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Colombia,Colombia
+"<bos><start_of_turn>user
+Consider Gjerpen.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Norway,Norway
+"<bos><start_of_turn>user
+Consider Schleitheim.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Switzerland,Germany
+"<bos><start_of_turn>user
+Consider Erbil SC.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Iraq,Iraq
+"<bos><start_of_turn>user
+Consider Teshie.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ghana,Ghana
+"<bos><start_of_turn>user
+Consider Southern Savonia.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Finland,Finland
+"<bos><start_of_turn>user
+Consider Tirebolu.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Turkey,Turkey
+"<bos><start_of_turn>user
+Consider Bedourie.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Australia,Australia
+"<bos><start_of_turn>user
+Consider Berar Province.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Vernayaz.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Switzerland,Switzerland
+"<bos><start_of_turn>user
+Consider Entracque.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Italy,Italy
+"<bos><start_of_turn>user
+Consider Nkawkaw.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ghana,Ghana
+"<bos><start_of_turn>user
+Consider Ponoy River.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Russia,Russia
+"<bos><start_of_turn>user
+Consider Jervis Inlet.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Canada,Canada
+"<bos><start_of_turn>user
+Consider Turaida.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Lat,Lat
+"<bos><start_of_turn>user
+Consider Porto Azzurro.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Italy,Italy
+"<bos><start_of_turn>user
+Consider Ariake Coliseum.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Japan,Japan
+"<bos><start_of_turn>user
+Consider Albertis Castle.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Italy,Belgium
+"<bos><start_of_turn>user
+Consider Eurasian Steppe.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ukraine,Kaz
+"<bos><start_of_turn>user
+Consider Pandoh Dam.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Kresttsy.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Russia,Russia
+"<bos><start_of_turn>user
+Consider Madona District.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Lat,Lith
+"<bos><start_of_turn>user
+Consider Pamukkale.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Turkey,Turkey
+"<bos><start_of_turn>user
+Consider Putyvl.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ukraine,Ukraine
+"<bos><start_of_turn>user
+Consider Passeier Valley.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Italy,Italy
+"<bos><start_of_turn>user
+Consider Nyeri County.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Kenya,Kenya
+"<bos><start_of_turn>user
+Consider Spanish Armed Forces.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Spain,Spain
+"<bos><start_of_turn>user
+Consider Capdenac.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",France,France
+"<bos><start_of_turn>user
+Consider Tovuz District.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Azer,Azer
+"<bos><start_of_turn>user
+Consider Blennerville.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ireland,Ireland
+"<bos><start_of_turn>user
+Consider Fort Madalena.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Mal,Portugal
+"<bos><start_of_turn>user
+Consider Panagarh.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Gobind Sagar.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Gobardanga.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Rock al Parque.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Colombia,Colombia
+"<bos><start_of_turn>user
+Consider Mandailing language.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Indonesia,Indonesia
+"<bos><start_of_turn>user
+Consider Tovarnik.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Cro,Cro
+"<bos><start_of_turn>user
+Consider Alcanena Municipality.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Portugal,Portugal
+"<bos><start_of_turn>user
+Consider Babcock & Brown.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Australia,Australia
+"<bos><start_of_turn>user
+Consider Orikhiv.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ukraine,Ukraine
+"<bos><start_of_turn>user
+Consider East Karelia.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Russia,Russia
+"<bos><start_of_turn>user
+Consider Tartu Town Hall.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",E,E
+"<bos><start_of_turn>user
+Consider Jemappes.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Belgium,Belgium
+"<bos><start_of_turn>user
+Consider Taranto Sport.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Italy,Italy
+"<bos><start_of_turn>user
+Consider Mannheim City Airport.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider Le Fuilet.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",France,France
+"<bos><start_of_turn>user
+Consider Treuchtlingen.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider Minu District.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Iran,Nepal
+"<bos><start_of_turn>user
+Consider West Darfur.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Sud,Sud
+"<bos><start_of_turn>user
+Consider Kuomintang.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Taiwan,Taiwan
+"<bos><start_of_turn>user
+Consider Ichchapuram.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Aventine Hill.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Italy,Italy
+"<bos><start_of_turn>user
+Consider Dornbirn.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Austria,Austria
+"<bos><start_of_turn>user
+Consider Ledaal.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Norway,Norway
+"<bos><start_of_turn>user
+Consider Tampines Expressway.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Singapore,Singapore
+"<bos><start_of_turn>user
+Consider Ulundurpet.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",India,India
+"<bos><start_of_turn>user
+Consider Nimmitabel.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Australia,Australia
+"<bos><start_of_turn>user
+Consider Cenepa River.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Peru,E
+"<bos><start_of_turn>user
+Consider Bad Wildungen.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider Tempi Municipality.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Greece,Italy
+"<bos><start_of_turn>user
+Consider Khmilnyk.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ukraine,Ukraine
+"<bos><start_of_turn>user
+Consider Alpokalja.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Hungary,Hungary
+"<bos><start_of_turn>user
+Consider Pragersko.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",S,S
+"<bos><start_of_turn>user
+Consider IJmuiden.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Netherlands,Netherlands
+"<bos><start_of_turn>user
+Consider Col Agnel.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Italy,France
+"<bos><start_of_turn>user
+Consider Kretinga.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Lith,Lith
+"<bos><start_of_turn>user
+Consider Lipscani.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Romania,Romania
+"<bos><start_of_turn>user
+Consider Emscher.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider Baturyn.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ukraine,Ukraine
+"<bos><start_of_turn>user
+Consider Hida Mountains.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Japan,Japan
+"<bos><start_of_turn>user
+Consider Zuiderzee.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Netherlands,Netherlands
+"<bos><start_of_turn>user
+Consider Illertissen.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider KBC Bank.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Belgium,Belgium
+"<bos><start_of_turn>user
+Consider Yamato Museum.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Japan,Japan
+"<bos><start_of_turn>user
+Consider Central Black Forest.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider Sahneh County.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Iran,Iran
+"<bos><start_of_turn>user
+Consider Glencree.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Ireland,Ireland
+"<bos><start_of_turn>user
+Consider Emba River.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Kaz,Spain
+"<bos><start_of_turn>user
+Consider Wallmerod.
+Which country is this landmark in? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",Germany,Germany
+"<bos><start_of_turn>user
+Consider Mark Isham.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,trumpet
+"<bos><start_of_turn>user
+Consider Terry Trotter.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,trumpet
+"<bos><start_of_turn>user
+Consider Roy Paci.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,trumpet
+"<bos><start_of_turn>user
+Consider Josephine Wiggs.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,violin
+"<bos><start_of_turn>user
+Consider Mike Scaccia.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Arthur Grumiaux.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,violin
+"<bos><start_of_turn>user
+Consider Larry Knechtel.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,piano
+"<bos><start_of_turn>user
+Consider Robert Fripp.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Kye Palmer.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,trumpet
+"<bos><start_of_turn>user
+Consider Herbie Nichols.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider John Fogerty.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Brad Delson.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Pepeu Gomes.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,piano
+"<bos><start_of_turn>user
+Consider Lil Hardin Armstrong.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Dizzy Reed.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Chris Thile.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Bert Joris.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,trumpet
+"<bos><start_of_turn>user
+Consider Jeanne Lamon.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,violin
+"<bos><start_of_turn>user
+Consider Michael Mantler.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,trumpet
+"<bos><start_of_turn>user
+Consider Ma Sicong.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,violin
+"<bos><start_of_turn>user
+Consider Ted Dwane.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Franz Liszt.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Clifford Curzon.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Friedrich Gulda.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Sheryl Crow.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Millard Powers.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,trumpet
+"<bos><start_of_turn>user
+Consider Skylar Grey.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Edvard Grieg.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Gunnar Andreas Berg.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,piano
+"<bos><start_of_turn>user
+Consider Melissa Etheridge.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Georgie Fame.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Speckled Red.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,guitar
+"<bos><start_of_turn>user
+Consider Corky Siegel.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,guitar
+"<bos><start_of_turn>user
+Consider Doc Severinsen.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,trumpet
+"<bos><start_of_turn>user
+Consider Edward MacDowell.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Bella Davidovich.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,violin
+"<bos><start_of_turn>user
+Consider Nigel Pulsford.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,trumpet
+"<bos><start_of_turn>user
+Consider Franz Anton Ries.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,piano
+"<bos><start_of_turn>user
+Consider Arthur Rubinstein.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Eric Clapton.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,guitar
+"<bos><start_of_turn>user
+Consider George Enescu.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,violin
+"<bos><start_of_turn>user
+Consider Johannes Brahms.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider David Isberg.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Earl Klugh.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Adam Deibert.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,guitar
+"<bos><start_of_turn>user
+Consider Ralph Alessi.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,trumpet
+"<bos><start_of_turn>user
+Consider Count Basie.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Al Kooper.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,guitar
+"<bos><start_of_turn>user
+Consider Eric Clapton.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Johann Stamitz.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,violin
+"<bos><start_of_turn>user
+Consider Edmund Neupert.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,trumpet
+"<bos><start_of_turn>user
+Consider Gerard Presencer.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,trumpet
+"<bos><start_of_turn>user
+Consider Felix Weingartner.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Rodrigo Prats.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,guitar
+"<bos><start_of_turn>user
+Consider Friedrich Wieck.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Sergiu Luca.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,piano
+"<bos><start_of_turn>user
+Consider Alvino Rey.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,trumpet
+"<bos><start_of_turn>user
+Consider Frederick Grinke.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,trumpet
+"<bos><start_of_turn>user
+Consider Tim Vesely.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,trumpet
+"<bos><start_of_turn>user
+Consider Eddie Palmieri.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Gerry Beckley.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,guitar
+"<bos><start_of_turn>user
+Consider Marcel Ciampi.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,trumpet
+"<bos><start_of_turn>user
+Consider Mel Schacher.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Michael Nyman.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Henri Gagnon.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,trumpet
+"<bos><start_of_turn>user
+Consider Les Claypool.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Grant Kirkhope.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,piano
+"<bos><start_of_turn>user
+Consider Emmanuel Chabrier.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Ashley Hutchings.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,guitar
+"<bos><start_of_turn>user
+Consider Millard Powers.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,trumpet
+"<bos><start_of_turn>user
+Consider Nikki Iles.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Herbert Fryer.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,trumpet
+"<bos><start_of_turn>user
+Consider Ruth Laredo.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Lee Mavers.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Keith Tippett.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Stephin Merritt.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Henry Busse.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,trumpet
+"<bos><start_of_turn>user
+Consider Nikolai Kapustin.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Pino Palladino.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Geoff Eales.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,trumpet
+"<bos><start_of_turn>user
+Consider Pietro Locatelli.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,violin
+"<bos><start_of_turn>user
+Consider John Mayall.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Michael Denner.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Marcelo Camelo.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Aretha Franklin.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Fred Van Hove.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,trumpet
+"<bos><start_of_turn>user
+Consider Percy Grainger.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Clara Haskil.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Boris Belkin.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,piano
+"<bos><start_of_turn>user
+Consider Thad Jones.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,trumpet
+"<bos><start_of_turn>user
+Consider Robert Riefling.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,trumpet
+"<bos><start_of_turn>user
+Consider Dennis Coffey.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider William Bolcom.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Roy Hargrove.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,trumpet
+"<bos><start_of_turn>user
+Consider Bob Ralston.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Jane Getz.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,trumpet
+"<bos><start_of_turn>user
+Consider Cow Cow Davenport.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,trumpet
+"<bos><start_of_turn>user
+Consider Chris Hillman.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Henry Halstead.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,trumpet
+"<bos><start_of_turn>user
+Consider Friedrich Kalkbrenner.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Rick Wakeman.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Meade Lux Lewis.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Jared Leto.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,guitar
+"<bos><start_of_turn>user
+Consider Suna Kan.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,guitar
+"<bos><start_of_turn>user
+Consider Neil Hagerty.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider John Hiatt.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Serge Gainsbourg.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,piano
+"<bos><start_of_turn>user
+Consider Nat King Cole.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Giuseppe Torelli.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,violin
+"<bos><start_of_turn>user
+Consider Antonio Rolla.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,guitar
+"<bos><start_of_turn>user
+Consider Johann Strauss I.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,violin
+"<bos><start_of_turn>user
+Consider Tom Barman.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,trumpet
+"<bos><start_of_turn>user
+Consider Leopold Godowsky.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Marc Ribot.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Julian Rachlin.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,violin
+"<bos><start_of_turn>user
+Consider Al Hirt.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,trumpet
+"<bos><start_of_turn>user
+Consider John Haggerty.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,trumpet
+"<bos><start_of_turn>user
+Consider Phranc.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Franz Benda.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,violin
+"<bos><start_of_turn>user
+Consider Norbert Brainin.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,violin
+"<bos><start_of_turn>user
+Consider Francis Poulenc.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Jason Rebello.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Marco Benevento.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Gene Pitney.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,guitar
+"<bos><start_of_turn>user
+Consider Bob Alcivar.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,guitar
+"<bos><start_of_turn>user
+Consider Pat Sansone.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Céline Dion.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Daniel Mongrain.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,trumpet
+"<bos><start_of_turn>user
+Consider Nat Gonella.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",trumpet,trumpet
+"<bos><start_of_turn>user
+Consider Rubin Goldmark.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,trumpet
+"<bos><start_of_turn>user
+Consider Gustavo Laureano.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Marin Alsop.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,violin
+"<bos><start_of_turn>user
+Consider Jared Leto.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Francisco Canaro.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,guitar
+"<bos><start_of_turn>user
+Consider Giuseppe Tartini.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,violin
+"<bos><start_of_turn>user
+Consider Paul Anka.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,guitar
+"<bos><start_of_turn>user
+Consider Carl Czerny.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Theodor Kullak.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Ivor McMahon.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,trumpet
+"<bos><start_of_turn>user
+Consider Wild Bill Davis.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Nigel Butterley.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,trumpet
+"<bos><start_of_turn>user
+Consider Nadia Reisenberg.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
+"<bos><start_of_turn>user
+Consider Liz Phair.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",guitar,guitar
+"<bos><start_of_turn>user
+Consider Seth Lakeman.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",violin,guitar
+"<bos><start_of_turn>user
+Consider Carla Bley.
+What instrument does this person play? Answer in a single word.<end_of_turn>
+<start_of_turn>model
+",piano,piano
